@@ -56,7 +56,7 @@ public class KochPanel extends JPanel
 
          x4 = x1 + deltaX * 2/3;  // two thirds
          y4 = y1 + deltaY * 2/3;
-
+8
          drawFractal (order-1, x1, y1, x2, y2, page);
          drawFractal (order-1, x2, y2, x3, y3, page);
          drawFractal (order-1, x3, y3, x4, y4, page);
