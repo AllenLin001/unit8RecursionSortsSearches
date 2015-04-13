@@ -16,7 +16,9 @@ public class KochPanel extends JPanel
 
    private final int TOPX = 200, TOPY = 20;
    private final int LEFTX = 60, LEFTY = 300;
-   private final int RIGHTX = 340, RIGHTY = 300;
+   private final int RIGHTX = 340, RIGHTY = 300;+
+
+   
 
    private int current; //current order
 
@@ -64,6 +66,26 @@ public class KochPanel extends JPanel
       }
    }
 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    //-----------------------------------------------------------------
    //  Performs the initial calls to the drawFractal method.
    //-----------------------------------------------------------------
